@@ -2,7 +2,7 @@
 
 Repositório do projeto da disciplina Lógica para Computação
 
-Tema ainda a ser definido
+Tema: Alocação de Horários de Disciplinas e Professores
 
 Trabalho em dupla. Membros:
 - Walber Florêncio
