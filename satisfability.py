@@ -47,8 +47,7 @@ class Funcoes:
 
     def satisfability(self, formula):
         atomicas = formula.atoms()
-        #qntd_atoms = len(atomicas)
-        qntd_atoms = 4
+        qntd_atoms = len(atomicas)
         qntd_valoracao = 2**qntd_atoms
         arrayValues = []
         for valor in range(qntd_valoracao):
